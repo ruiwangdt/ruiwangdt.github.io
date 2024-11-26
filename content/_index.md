@@ -78,7 +78,7 @@ sections:
           #     - Safe control strategies with provable probabilities.
           #     - Researched, implemented, and validated baseline models, including FNO, CNO, OFormer, LNPDE, etc.
         - title: Visiting Scholar
-          company: Tsinghua University - Institute for Interdisciplinary Information Sciences
+          company: Tsinghua University - Institute for Interdisciplinary Information Sciences (IIIS) - Decision Intelligence Lab
           company_url: 'https://people.iiis.tsinghua.edu.cn/~dilab/index.html'
           company_logo: tsinghua
           location: Beijing

@@ -125,6 +125,6 @@ social:
 highlight_name: true
 ---
 
-My research objectives focus on leveraging mathematical methodologies to synergistically integrate advanced artificial intelligence (AI) techniques with wireless communication technologies, driving innovation across these fields and enhancing their applications in healthcare. Additionally, I am deeply intrigued by how intelligence emerges in neuroscience and how states of consciousness are represented in the brain. Therefore, I aspire to develop comprehensive models that elucidate the signal transmission mechanisms within the human neural network, seeking to bridge computational models with neural representations of intelligence.
+My research focuses on leveraging mathematical methodologies to integrate advanced artificial intelligence (AI) with wireless communication technologies, fostering innovation in both fields and enabling transformative healthcare applications. I am also deeply interested in the mechanisms underlying the emergence of intelligence and the neural representation of consciousness. My goal is to develop comprehensive computational models to elucidate signal transmission processes within human neural networks, bridging AI and neuroscience to advance our understanding of intelligence and its computational underpinnings.
 
 {style="text-align: justify;"}
