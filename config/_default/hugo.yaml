@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Rui Wang # Website name
-baseURL: 'https://hytn.github.io/website/' # Website URL
+baseURL: 'https://ruiwangdt.github.io/' # Website URL
 
 ############################
 ## LANGUAGE
