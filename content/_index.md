@@ -197,9 +197,9 @@ sections:
   #       {{< gallery album="demo" >}}
   #   design:
   #     columns: '1'
-  - block: collection
-    id: featured
-    content:
+  # - block: collection
+  #   id: featured
+  #   content:
   #     title: Featured Publications
   #     filters:
   #       folders:
@@ -208,8 +208,8 @@ sections:
   #   design:
   #     columns: '2'
   #     view: card
-  # - block: collection
-  #   content:
+  - block: collection
+    content:
       title: Publications
       text: |-
         {{% callout note %}}
