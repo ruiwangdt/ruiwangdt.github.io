@@ -70,25 +70,25 @@ sections:
           location: Hangzhou
           date_start: '2023-12-01'
           date_end: '2024-07-30'
-          description: |2-
-              Research in AI4Science under the guidance of <a href="https://www.tailinwu.com/" target="_blank">Tailin Wu</a>:
+          # description: |2-
+          #     Research in AI4Science:
 
-              - Developed advanced control methods for complex physical systems using generative models.
-              - Developed the Wavelet Diffusion Neural Operator, a novel framework for super-resolution control and prediction.
-              - Safe control strategies with provable probabilities.
-              - Researched, implemented, and validated baseline models, including FNO, CNO, OFormer, LNPDE, etc.
+          #     - Developed advanced control methods for complex physical systems using generative models.
+          #     - Developed the Wavelet Diffusion Neural Operator, a novel framework for super-resolution control and prediction.
+          #     - Safe control strategies with provable probabilities.
+          #     - Researched, implemented, and validated baseline models, including FNO, CNO, OFormer, LNPDE, etc.
         - title: Visiting Scholar
-          company: Tsinghua University - Institute for Interdisciplinary Information Sciences (IIIS) - Prof. Longbo Huang
+          company: Tsinghua University - Institute for Interdisciplinary Information Sciences
           company_url: 'https://people.iiis.tsinghua.edu.cn/~dilab/index.html'
           company_logo: tsinghua
           location: Beijing
           date_start: '2024-08-01'
           date_end: '2024-11-20'
-          description: |2-
-              Research in Efficient Learining:
+          # description: |2-
+          #     Research in Efficient Learining:
 
-              - Investigated current progress in LoRA. 
-              - Proposed two methods to improve LoRA.
+          #     - Investigated current progress in LoRA. 
+          #     - Proposed two methods to improve LoRA.
     design:
       columns: '2'
   # - block: accomplishments
