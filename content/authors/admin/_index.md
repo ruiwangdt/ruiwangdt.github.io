@@ -116,7 +116,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/CV_Rui_Wang.pdf
+    link: uploads/CV_Rui_Wang_homepage.pdf
   # - icon: research statement
   #   icon_pack: ai
   #   link: uploads/research_statement.pdf
