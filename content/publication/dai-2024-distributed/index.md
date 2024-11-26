@@ -27,7 +27,7 @@ featured: False
 # - name: Custom Link
 #   url: https://aclanthology.org/2023.acl-long.354/
 
-url_pdf: url_pdf: Distributed_Downlink_Precoding.pdf
+url_pdf: Distributed_Downlink_Precoding.pdf
 # url_code: 'https://github.com/Hytn/AspectSum'
 # url_dataset: 'https://github.com/Hytn/DocRED-HWE'
 # url_poster: ''
