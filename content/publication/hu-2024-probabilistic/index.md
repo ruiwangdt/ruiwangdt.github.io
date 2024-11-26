@@ -4,7 +4,7 @@ authors:
 - Peiyan Hu
 - Xiaowei Qian
 - Wenhao Deng
-- Rui Wang
+- admin
 - Haodong Feng
 - Ruiqi Feng
 - Tao Zhang
@@ -16,5 +16,5 @@ date: -01-01
 publishDate: '2024-11-25T15:14:37.243347Z'
 publication_types:
 - paper-conference
-publication: '*Neurips Safe Generative AI Workshop 2024*'
+publication: 'NeurIPS Safe Generative AI Workshop 2024'
 ---

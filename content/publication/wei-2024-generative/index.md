@@ -6,7 +6,7 @@ authors:
 - Ruiqi Feng
 - Yixuan Du
 - Tao Zhang
-- Rui Wang
+- admin
 - Yue Wang
 - Zhi-Ming Ma
 - Tailin Wu
