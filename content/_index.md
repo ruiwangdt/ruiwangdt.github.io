@@ -64,16 +64,14 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Research Intern
-          company: Westlake University - AI for Scientific Simulation and Discovery Lab - Pro. Tailin Wu
+          company: Westlake University - AI for Scientific Simulation and Discovery Lab
           company_url: 'https://ai4s.lab.westlake.edu.cn/'
           company_logo: Westlake
-          advisor_name: Tailin Wu
-          advisor_url: 'https://ai4s.lab.westlake.edu.cn/'
           location: Hangzhou
           date_start: '2023-12-01'
           date_end: '2024-07-30'
           description: |2-
-              Research in AI4Science:
+              Research in AI4Science under the guidance of <a href="https://www.tailinwu.com/" target="_blank">Tailin Wu</a>:
 
               - Developed advanced control methods for complex physical systems using generative models.
               - Developed the Wavelet Diffusion Neural Operator, a novel framework for super-resolution control and prediction.
