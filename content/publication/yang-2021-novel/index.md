@@ -27,7 +27,7 @@ featured: False
 # - name: Custom Link
 #   url: https://aclanthology.org/2023.acl-long.354/
 
-url_pdf: content/publication/yang-2021-novel/A_Novel_Scheme_for_Joint_Estimation.pdf
+url_pdf: pubs/A_Novel_Scheme_for_Joint_Estimation.pdf
 # url_code: 'https://github.com/Hytn/AspectSum'
 # url_dataset: 'https://github.com/Hytn/DocRED-HWE'
 # url_poster: ''

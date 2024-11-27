@@ -25,7 +25,7 @@ featured: False
 # - name: Custom Link
 #   url: https://aclanthology.org/2023.acl-long.354/
 
-url_pdf: content/publication/wang-2021-distributed/A_Distributed_MIMO_Relay_Scheme.pdf
+url_pdf: pubs/A_Distributed_MIMO_Relay_Scheme.pdf
 # url_code: 'https://github.com/Hytn/AspectSum'
 # url_dataset: 'https://github.com/Hytn/DocRED-HWE'
 # url_poster: ''

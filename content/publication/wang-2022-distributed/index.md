@@ -26,7 +26,7 @@ featured: False
 # - name: Custom Link
 #   url: https://aclanthology.org/2023.acl-long.354/
 
-url_pdf: content/publication/wang-2022-distributed/Distributed_Learning_for_MIMO_Relay_Networks.pdf
+url_pdf: pubs/Distributed_Learning_for_MIMO_Relay_Networks.pdf
 # url_code: 'https://github.com/Hytn/AspectSum'
 # url_dataset: 'https://github.com/Hytn/DocRED-HWE'
 # url_poster: ''
