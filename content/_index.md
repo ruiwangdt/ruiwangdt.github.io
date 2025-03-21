@@ -246,8 +246,8 @@ sections:
       text: |-
         Please feel free to contact me if you have any questions.
       # Contact (add or remove contact options as necessary)
-      email: ruiwang18@fudan.edu.cn
-      phone: +86 186 2111 3080
+      email: rui_wang@mail.tsinghua.edu.cn
+      # phone: +86 186 2111 3080
       # appointment_url: 'https://calendly.com'
       # address:
       #   street: 450 Serra Mall

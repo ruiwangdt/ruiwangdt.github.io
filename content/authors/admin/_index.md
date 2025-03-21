@@ -30,7 +30,7 @@ bio: My research interests include efficient learning, AI4Science, wireless comm
 # Interests to show in About widget
 interests:
   - AI for Science
-  - Efficient Learning
+  - Neuroscience
   - Wireless Communication
   - Network Optimization
 
