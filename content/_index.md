@@ -69,7 +69,7 @@ sections:
           company_logo: tsinghua
           location: Beijing
           date_start: '2025-01'
-          date_end: ''
+          # date_end: ''
         - title: Research Intern
           company: Westlake University - AI for Scientific Simulation and Discovery Lab
           company_url: 'https://ai4s.lab.westlake.edu.cn/'
