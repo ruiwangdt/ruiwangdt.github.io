@@ -25,7 +25,7 @@ organizations:
     # url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include efficient learning, AI4Science, wireless communication.
+bio: My research interests include AI4Science and wireless communication.
 
 # Interests to show in About widget
 interests:
@@ -115,7 +115,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/CV_Rui_Wang_homepage.pdf
+    link: uploads/CV_homepage.pdf
   # - icon: research statement
   #   icon_pack: ai
   #   link: uploads/research_statement.pdf
@@ -124,6 +124,6 @@ social:
 highlight_name: true
 ---
 
-My research focuses on leveraging mathematical methodologies to integrate advanced artificial intelligence (AI) with wireless communication technologies, fostering innovation in both fields and enabling transformative healthcare applications. I am also deeply interested in the mechanisms underlying the emergence of intelligence and the neural representation of consciousness. My goal is to develop comprehensive computational models to elucidate signal transmission processes within human neural networks, bridging AI and neuroscience to advance our understanding of intelligence and its computational underpinnings.
+<!-- My research focuses on leveraging mathematical methodologies to integrate advanced artificial intelligence (AI) with wireless communication technologies, fostering innovation in both fields and enabling transformative healthcare applications. I am also deeply interested in the mechanisms underlying the emergence of intelligence and the neural representation of consciousness. My goal is to develop comprehensive computational models to elucidate signal transmission processes within human neural networks, bridging AI and neuroscience to advance our understanding of intelligence and its computational underpinnings. -->
 
 {style="text-align: justify;"}
