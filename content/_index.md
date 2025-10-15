@@ -63,6 +63,13 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Postdoctoral Researcher
+          company: Tsinghua University - Institute of Brain and Cognitive Sciences - The Laboratory of Imaging and Intelligent Technology
+          company_url: 'https://media.au.tsinghua.edu.cn/cn/index.htm'
+          company_logo: tsinghua
+          location: Beijing
+          date_start: '2025-01'
+          date_end: ''
         - title: Research Intern
           company: Westlake University - AI for Scientific Simulation and Discovery Lab
           company_url: 'https://ai4s.lab.westlake.edu.cn/'
