@@ -1,5 +1,5 @@
 ---
-title: 'From Uncertain to Safe: Conformal Fine-Tuning of Diffusion Models for Safe PDE Control'
+title: From Uncertain to Safe: Conformal Fine-Tuning of Diffusion Models for Safe PDE Control
 authors:
 - Peiyan Hu
 - Xiaowei Qian
